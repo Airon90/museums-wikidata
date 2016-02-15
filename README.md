@@ -1,5 +1,5 @@
 # museums-wikidata
-Swedish museums on Wikidata shown on a Leaflet map.
+Italian museums on Wikidata shown on a Leaflet map.
 
 Wikidata query: http://tinyurl.com/hcz542r
 
